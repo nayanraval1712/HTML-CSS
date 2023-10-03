@@ -1,0 +1,36 @@
+.main {
+  display: flex;
+  background-color: #662549;
+  padding: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  border-radius: 30px;
+}
+.onediv {
+  display: flex;
+}
+.twodiv {
+  margin-left: 50px;
+  display: flex;
+  font-size: 1.5rem;
+}
+#name {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 30px;
+}
+img {
+  border-radius: 90px;
+}
+#name > a {
+  color: black;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.threediv {
+  margin-left: 500px;
+  padding-top: 30px;
+}
