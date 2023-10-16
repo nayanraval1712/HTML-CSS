@@ -33,4 +33,5 @@ img {
 .threediv {
   margin-left: 500px;
   padding-top: 30px;
+  gap: 10px;
 }
